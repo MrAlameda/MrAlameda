@@ -1,5 +1,6 @@
 # Hi there 👋 !
-I'm Mario :technologist:
+I'm Mario 🎉
+***
 ## About  mi
 ```js
 const FontEnd=[
@@ -8,12 +9,18 @@ const FontEnd=[
     React  
 ]
 const Backend={
-    Nodejs,
-    Lenguage:[ Python, Js, SQL],
-    DB:{
+    Nodejs 🔥,
+    📝:[Python,SQL],
+    🧱️:{
         Mongodb,
         mySQL
     }
+    🗃 :{
+        ExpressJs
+    }
 }
 ```
-## l'm learning 
+***
+## I'm learning 💡
+ - Django
+ - Next
