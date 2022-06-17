@@ -8,8 +8,8 @@ const FontEnd=[
     React  
 ]
 const Backend={
-    :page_facing_up::[Python, Nodejs(js),SQL],
-    :card_file_box::{
+    :page_facing_up: :[Python, Nodejs(js),SQL],
+    :card_file_box: :{
         Mongodb,
         mySQL
     }
