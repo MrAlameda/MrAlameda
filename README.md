@@ -1,8 +1,14 @@
 # Hi there 👋 !
-I'm Mario 🎉
+Me llamo Mario, desarrollador FullStack 🎉
 
 ***
-## About  mi
+## Un poco sobre mi
+
+Soy alguien a quien le gusta aprender cosas nuevas y siempre estar al dia.
+Soy un poco malo con el UX/UI :sweat:
+
+***
+## Skills
 ```js
 const FontEnd=[
     Js,
@@ -12,7 +18,7 @@ const FontEnd=[
 ]
 const Backend={
     Nodejs 🔥,
-    📝:[Python,SQL],
+    📝:[SQL],
     🧱️:{
         Mongodb,
         mySQL
@@ -23,6 +29,9 @@ const Backend={
 }
 ```
 ***
-## I'm learning 💡
+## Estoy estudiando 💡
  - Django
+ - Python
+ - TensorFlow
+ - OpenCV
  - Next
