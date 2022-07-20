@@ -34,7 +34,7 @@ const Backend={
  - TensorFlow
  - OpenCV
  - Next
- - SmartContracts con Solodity
+ - BlockChain con Solidity
 
 ## Proyectos 
 Algunos proyectos que he hecho con React.
