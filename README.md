@@ -4,7 +4,7 @@ Me llamo Mario, desarrollador FullStack 🎉
 ## Un poco sobre mi
 
 Soy alguien a quien le gusta aprender cosas nuevas y siempre estar al dia. 
-
+Me gusta practicar SQL,Python y Javascript en HackerRank y CodeWar
 Soy un poco malo con el UX/UI :sweat:
 
 
@@ -34,6 +34,7 @@ const Backend={
  - TensorFlow
  - OpenCV
  - Next
+ - SmartContracts con Solodity
 
 ## Proyectos 
 Algunos proyectos que he hecho con React.
